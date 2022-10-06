@@ -34,8 +34,8 @@ function Login() {
       console.log(window.$token);
       window.location = "/tasks";
       alert("Inicio exitoso");
-  });
-}
+    });
+  }
 
   return (
     <Grid>
